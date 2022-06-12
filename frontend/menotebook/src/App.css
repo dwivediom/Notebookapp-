@@ -1,0 +1,12 @@
+.bgcolor{ 
+  background-color: rgba(255, 166, 0, 0.341);
+}
+
+.bgmain{ 
+  /* background: rgb(93,115,255);
+background: linear-gradient(90deg, rgba(93,115,255,0.4066001400560224) 25%, rgba(21,188,227,0.3225665266106442) 52%, rgba(153,247,163,0.4150035014005602) 100%); */
+  padding-top: 30px;
+  
+  border-radius: 20px;
+  
+}
